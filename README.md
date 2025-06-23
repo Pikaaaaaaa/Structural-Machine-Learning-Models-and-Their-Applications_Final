@@ -1,7 +1,7 @@
-Fast Autoaugment / RandAugnment
+Fast AutoAugment / RandAugment
 ===
 
-**Fast Autoaugment -- NeurlIPS (2019)**
+**Fast AutoAugment -- NeurlIPS (2019)**
 
 [paper site](https://papers.nips.cc/paper_files/paper/2019/file/6add07cf50424b14fdf649da87843d01-Paper.pdf)
 
@@ -16,6 +16,8 @@ Author : Ekin Dogus Cubuk, Barret Zoph, Jon Shlens, Quoc V. Le
 
 
 ----
-Run train.py to train a model with the config (which performed on the course) and get the performance of the model,
+We can run train.py to train a model with the config (which performed on the course) and get the performance of the model,
 
 e.g. `python RandAugment/train.py -c confs/wresnet28x10_cifar10_b256.yaml --save path_name.pth`
+
+Reference : [Fast AutoAugment](https://github.com/kakaobrain/fast-autoaugment) / [RandAugment](https://github.com/ildoonet/pytorch-randaugment)
