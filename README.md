@@ -8,7 +8,7 @@ Fast Autoaugment / RandAugnment
 Author : Sungbin Lim, Ildoo Kim, Taesup Kim, Chiheon Kim, Sungwoong Kim
 
 
-
+    
 **RandAugment: Practical Automated Data Augmentation with a Reduced Search Space -- NeurlIPS (2020)**
 
 [paper site](https://papers.nips.cc/paper_files/paper/2020/file/d85b63ef0ccb114d0a3bb7b7d808028f-Paper.pdf)
