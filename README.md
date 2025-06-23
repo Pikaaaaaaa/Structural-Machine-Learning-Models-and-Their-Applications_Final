@@ -16,7 +16,7 @@ Author : Ekin Dogus Cubuk, Barret Zoph, Jon Shlens, Quoc V. Le
 
 
 ----
-We can run train.py with the config (which performed on the course) and get the performance of the model,
+We can run train.py with the config (which performed on the course)
 
 e.g. `python RandAugment/train.py -c confs/wresnet28x10_cifar10_b256.yaml --save path_name.pth`
 
